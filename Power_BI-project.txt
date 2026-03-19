@@ -1,3 +1,8 @@
-https://drive.google.com/file/d/1bEGTpp0Q7wy1j5N5pdvVZZP2X5l2Iy4a/view?usp=sharing
+Download Project : https://drive.google.com/file/d/1bEGTpp0Q7wy1j5N5pdvVZZP2X5l2Iy4a/view?usp=sharing
 
 “Due to file size limitations, the Power BI file is available via Google Drive.”
+
+Date Set form kaggle:
+cards_data.csv : https://drive.google.com/file/d/192Vql7fUoYE9VzGOMKWDEsngpvI9c4Lu/view?usp=sharing
+users_data.csv : https://drive.google.com/file/d/1MlaXYSWmXSWrNgsm-VNwyUUFek7c3CaD/view?usp=sharing
+transactions_data.csv : 
